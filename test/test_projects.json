@@ -1,0 +1,14 @@
+{
+    "Name": {
+        "0": "Test1",
+        "1": "Test2"
+    },
+    "Type": {
+        "0": "Painitng",
+        "1": "Building"
+    },
+    "Completed": {
+        "0": "No",
+        "1": "Yes"
+    }
+}
