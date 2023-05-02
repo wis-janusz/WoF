@@ -5,7 +5,7 @@ local_projects_path = "local_projects.json"
 projects = utils.load_projects(local_projects_path)
 choice = projects.sample()
 
-app = Dash("WoF")
+app = Dash("WoP")
 
 app.layout = html.Div([
     html.Div(children='Local Projects'),

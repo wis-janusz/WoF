@@ -1,6 +1,6 @@
 import pytest
 import pandas as pd
-import wof.utils as utils
+import wop.utils as utils
 
 
 @pytest.fixture

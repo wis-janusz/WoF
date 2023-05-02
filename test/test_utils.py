@@ -1,4 +1,4 @@
-import wof.utils as utils
+import wop.utils as utils
 
 
 def test_load_projects(test_projects, test_projects_df):
